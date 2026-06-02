@@ -1,2 +1,2 @@
 # qa-jenkins-lab
-Jenkins integration homework
+(WORK IN PROGRESS) Jenkins integration homework
